@@ -1,4 +1,4 @@
-# Code-Execution-Server
+# Code-Execution-Simulator
 
 A Simple Code Execution simulator that reads, compiles, and executes inputted C programs and tests them on given test files.
 
